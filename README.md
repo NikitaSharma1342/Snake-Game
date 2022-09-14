@@ -1,6 +1,22 @@
 # Snake-Game
 
-This is the famous snake game created with the help of concepts of object oriented programming, libraries like **turtle** and modules like **random** and **time**.
+This is the famous snake game created with the help of concepts of object oriented programming.
+
+# Table of Contents
+* Description
+* Libraries and modules
+* How to run
+* Screenshots
+
+# Desription
+
+The archade maize game know as snake game. It is created with the help of concepts of Object oriented programming and various libraries and modules. In this game to generate a highscore, everutime a player plays if the score is greater than the highscore it is stored in `data.txt`.
+
+# Libraries and modules
+* Turtle 
+* Random
+* Time
+
 
 # How to run 
 
