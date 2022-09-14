@@ -8,7 +8,7 @@ This is the famous snake game created with the help of concepts of object orient
 * How to run
 * Screenshots
 
-# Desription
+# Description
 
 The archade maize game know as snake game. It is created with the help of concepts of Object oriented programming and various libraries and modules. In this game to generate a highscore, everutime a player plays if the score is greater than the highscore it is stored in `data.txt`.
 
