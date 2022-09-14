@@ -1,6 +1,6 @@
 # Snake-Game
 
-This is the famous snake game created with the help of concepts of object oriented programming, libraries like turtle and modules like random and time.
+This is the famous snake game created with the help of concepts of object oriented programming, libraries like **turtle** and modules like **random** and **time**.
 
 # How to run 
 
